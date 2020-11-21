@@ -1,7 +1,4 @@
 # OS2020
-
-Daniel Hagimont
-hagimont@enseeiht.fr
 Phạm Chí Trung
 trungpc.ba9065@st.usth.edu.vn
 Phạm Tuấn Thành
